@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\Home Task 2\Home Task 2 C#\HomeTask 2\HomeTask 2\bin\Debug\netcoreapp3.1\HomeTask 2.exe
+C:\Users\ASUS\Desktop\Home Task 2\Home Task 2 C#\HomeTask 2\HomeTask 2\bin\Debug\netcoreapp3.1\HomeTask 2.deps.json
+C:\Users\ASUS\Desktop\Home Task 2\Home Task 2 C#\HomeTask 2\HomeTask 2\bin\Debug\netcoreapp3.1\HomeTask 2.runtimeconfig.json
+C:\Users\ASUS\Desktop\Home Task 2\Home Task 2 C#\HomeTask 2\HomeTask 2\bin\Debug\netcoreapp3.1\HomeTask 2.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\Home Task 2\Home Task 2 C#\HomeTask 2\HomeTask 2\bin\Debug\netcoreapp3.1\HomeTask 2.dll
+C:\Users\ASUS\Desktop\Home Task 2\Home Task 2 C#\HomeTask 2\HomeTask 2\bin\Debug\netcoreapp3.1\HomeTask 2.pdb
+C:\Users\ASUS\Desktop\Home Task 2\Home Task 2 C#\HomeTask 2\HomeTask 2\obj\Debug\netcoreapp3.1\HomeTask 2.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Home Task 2\Home Task 2 C#\HomeTask 2\HomeTask 2\obj\Debug\netcoreapp3.1\HomeTask 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Home Task 2\Home Task 2 C#\HomeTask 2\HomeTask 2\obj\Debug\netcoreapp3.1\HomeTask 2.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Home Task 2\Home Task 2 C#\HomeTask 2\HomeTask 2\obj\Debug\netcoreapp3.1\HomeTask 2.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Home Task 2\Home Task 2 C#\HomeTask 2\HomeTask 2\obj\Debug\netcoreapp3.1\HomeTask 2.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Home Task 2\Home Task 2 C#\HomeTask 2\HomeTask 2\obj\Debug\netcoreapp3.1\HomeTask 2.dll
+C:\Users\ASUS\Desktop\Home Task 2\Home Task 2 C#\HomeTask 2\HomeTask 2\obj\Debug\netcoreapp3.1\HomeTask 2.pdb
+C:\Users\ASUS\Desktop\Home Task 2\Home Task 2 C#\HomeTask 2\HomeTask 2\obj\Debug\netcoreapp3.1\HomeTask 2.genruntimeconfig.cache
