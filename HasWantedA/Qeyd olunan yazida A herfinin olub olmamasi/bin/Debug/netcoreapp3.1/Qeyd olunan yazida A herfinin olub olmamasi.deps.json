@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Qeyd olunan yazida A herfinin olub olmamasi/1.0.0": {
+        "runtime": {
+          "Qeyd olunan yazida A herfinin olub olmamasi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Qeyd olunan yazida A herfinin olub olmamasi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\Home Task 2\Qeyd olunan yazida A herfinin olub olmamasi\Qeyd olunan yazida A herfinin olub olmamasi\bin\Debug\netcoreapp3.1\Qeyd olunan yazida A herfinin olub olmamasi.exe
+C:\Users\ASUS\Desktop\Home Task 2\Qeyd olunan yazida A herfinin olub olmamasi\Qeyd olunan yazida A herfinin olub olmamasi\bin\Debug\netcoreapp3.1\Qeyd olunan yazida A herfinin olub olmamasi.deps.json
+C:\Users\ASUS\Desktop\Home Task 2\Qeyd olunan yazida A herfinin olub olmamasi\Qeyd olunan yazida A herfinin olub olmamasi\bin\Debug\netcoreapp3.1\Qeyd olunan yazida A herfinin olub olmamasi.runtimeconfig.json
+C:\Users\ASUS\Desktop\Home Task 2\Qeyd olunan yazida A herfinin olub olmamasi\Qeyd olunan yazida A herfinin olub olmamasi\bin\Debug\netcoreapp3.1\Qeyd olunan yazida A herfinin olub olmamasi.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\Home Task 2\Qeyd olunan yazida A herfinin olub olmamasi\Qeyd olunan yazida A herfinin olub olmamasi\bin\Debug\netcoreapp3.1\Qeyd olunan yazida A herfinin olub olmamasi.dll
+C:\Users\ASUS\Desktop\Home Task 2\Qeyd olunan yazida A herfinin olub olmamasi\Qeyd olunan yazida A herfinin olub olmamasi\bin\Debug\netcoreapp3.1\Qeyd olunan yazida A herfinin olub olmamasi.pdb
+C:\Users\ASUS\Desktop\Home Task 2\Qeyd olunan yazida A herfinin olub olmamasi\Qeyd olunan yazida A herfinin olub olmamasi\obj\Debug\netcoreapp3.1\Qeyd olunan yazida A herfinin olub olmamasi.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Home Task 2\Qeyd olunan yazida A herfinin olub olmamasi\Qeyd olunan yazida A herfinin olub olmamasi\obj\Debug\netcoreapp3.1\Qeyd olunan yazida A herfinin olub olmamasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Home Task 2\Qeyd olunan yazida A herfinin olub olmamasi\Qeyd olunan yazida A herfinin olub olmamasi\obj\Debug\netcoreapp3.1\Qeyd olunan yazida A herfinin olub olmamasi.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Home Task 2\Qeyd olunan yazida A herfinin olub olmamasi\Qeyd olunan yazida A herfinin olub olmamasi\obj\Debug\netcoreapp3.1\Qeyd olunan yazida A herfinin olub olmamasi.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Home Task 2\Qeyd olunan yazida A herfinin olub olmamasi\Qeyd olunan yazida A herfinin olub olmamasi\obj\Debug\netcoreapp3.1\Qeyd olunan yazida A herfinin olub olmamasi.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Home Task 2\Qeyd olunan yazida A herfinin olub olmamasi\Qeyd olunan yazida A herfinin olub olmamasi\obj\Debug\netcoreapp3.1\Qeyd olunan yazida A herfinin olub olmamasi.dll
+C:\Users\ASUS\Desktop\Home Task 2\Qeyd olunan yazida A herfinin olub olmamasi\Qeyd olunan yazida A herfinin olub olmamasi\obj\Debug\netcoreapp3.1\Qeyd olunan yazida A herfinin olub olmamasi.pdb
+C:\Users\ASUS\Desktop\Home Task 2\Qeyd olunan yazida A herfinin olub olmamasi\Qeyd olunan yazida A herfinin olub olmamasi\obj\Debug\netcoreapp3.1\Qeyd olunan yazida A herfinin olub olmamasi.genruntimeconfig.cache
